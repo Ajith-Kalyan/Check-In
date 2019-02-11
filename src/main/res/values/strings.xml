@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Signage</string>
+
+
+    <string-array name="usertype_array">
+        <item>Select Category</item>
+        <item>Employee</item>
+        <item>Guest</item>
+        <item>Vendor</item>
+        <item>Client</item>
+
+    </string-array>
+
+
+</resources>
